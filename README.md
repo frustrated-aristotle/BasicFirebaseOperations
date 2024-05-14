@@ -1,19 +1,21 @@
 # Firebase Auth & Bootstrap Site Example
+### Overview
 I have made a basic Web Site to demonstrate how to use Firebase Auth product for registeration and signing in functionalities in your sites.
 
 # Prerequisites
-To use this web app correctly, you should have an app on Firebase that has Auth and Firestore products created.
+To use this web app correctly, you should have a Firebase project with Authentication and Firestore services enabled.
 
 # How to Use
 This project is so straigthforward. Just clone it or download it to your workspace directly.
 
-Sign in page is: signin.html
-Register page is: register.html
-Main page is: index.html
+- Sign in page is: signin.html
+- Register page is: register.html
+- Main page is: index.html
 
 # Details that You Won't Care
 Both of our sign in and register pages use the same css file since they need the same look. 
-Main page is empty now. Y
+Main page is empty now.
+
 # Pages
 
 ### signin.html
