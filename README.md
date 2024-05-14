@@ -6,7 +6,17 @@ I have made a basic Web Site to demonstrate how to use Firebase Auth product for
 To use this web app correctly, you should have a Firebase project with Authentication and Firestore services enabled.
 
 # How to Use
-This project is so straigthforward. Just clone it or download it to your workspace directly.
+This project is so straigthforward. 
+
+1- Just clone it or download it to your workspace directly.
+2- Create a web app in Firebase if you have not already. 
+3- Go to Project Settings on your project by simply clicking on the gear in sidebar for now.
+4- Scroll down to Your Apps section in this page. Select your app and wait, radiobuttons will be loaded.
+5- Select config button. Copy your firebaseConfig constant. 
+6- Go to 50th line of signin.html. Replace your config with the one in this script.
+7- Do the same in 56th line of register.html. 
+
+After these steps, you're good to go.
 
 - Sign in page is: signin.html
 - Register page is: register.html
